@@ -123,7 +123,7 @@ Each event has its own NFT contract clone and Merkle tree, ensuring total isolat
 - ✅ TypeScript SDK for third-party integrations
 - ✅ Demo app (mint + proof + verification)
 
-**Main Repository:** [https://github.com/mathigertner/arg25-Projects](https://github.com/mathigertner/arg25-Projects)
+**Main Repository:** [https://github.com/Obscurus-Labs/obscurus-protocol](https://github.com/Obscurus-Labs/obscurus-protocol)
 **Demo / Deployment:** *TBD*
 **Slides / Presentation:** *TBD*
 
